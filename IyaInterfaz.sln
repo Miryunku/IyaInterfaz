@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IyaInterfaz", "IyaInterfaz\IyaInterfaz.csproj", "{671DE935-778C-4D1B-9B60-AF9691930B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671DE935-778C-4D1B-9B60-AF9691930B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671DE935-778C-4D1B-9B60-AF9691930B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671DE935-778C-4D1B-9B60-AF9691930B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671DE935-778C-4D1B-9B60-AF9691930B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C677894B-7A2D-48CD-A322-CB076BEE75F3}
+	EndGlobalSection
+EndGlobal
